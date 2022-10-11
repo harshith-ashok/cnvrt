@@ -1,8 +1,8 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "0"
+      "entry": 1,
+      "weight": "0"
     }
   ],
   "profile": {
